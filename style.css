@@ -345,7 +345,7 @@ footer {
     height: 30vh;
   }
   h1 {
-    font-size: 12vw;
+    font-size: 36px;
   }
   h2 {
     font-size: 8vw;
@@ -359,8 +359,10 @@ footer {
   .skill {
     font-size: 5vw;
   }
+	
   ul {
-    font-size: 4.5vw;
+    list-style-type: none;
+	font-size: 4.5vw;
     width: 80%;
   }
   #skills-label {
@@ -443,3 +445,5 @@ footer {
     font-size: 5.5vw;
   }
 }
+
+
